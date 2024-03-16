@@ -13,12 +13,12 @@ This project is a simple front-end implementation of a YouTube clone using HTML 
 
 ![Screenshot 2024-03-16 171156](https://github.com/GundakarlaNithin/Youtube-Clone/assets/163517157/007c38b5-11df-420b-ac05-26640dac9bcc)
 
-
+/n
 
 2) Header :
 ![Screenshot 2024-03-16 171240](https://github.com/GundakarlaNithin/Youtube-Clone/assets/163517157/6054ea68-0a58-47a9-a870-607331270661)
 
-
+/n
 
 
 3) Sidebar :
