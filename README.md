@@ -1,4 +1,4 @@
-# YouTube Clone
+# YouTube (Dashboard interface)
 
 This project is a simple front-end implementation of a YouTube clone using HTML and CSS. It replicates the basic layout and design of the YouTube website to showcase proficiency in HTML and CSS development skills.
 
